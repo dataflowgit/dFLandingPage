@@ -1,0 +1,6 @@
+.help-hub-cards-sec{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,34 @@
+.banner{
+    background:url('./images/homepage-banner.png');
+    background-size: contain;
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.banner-title-and-searchbar{
+    min-width: 800px;
+}
+.banner-serchbar{
+    display: flex;
+}
+
+.banner-title{
+    font-family: "Roboto", Sans-serif;
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+/* 
+.banner-search-inpt{
+    padding: 10px 0 10px 10px;
+    outline: none;
+    min-width: 100%;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border: none;
+} */

@@ -1,0 +1,25 @@
+.welcome{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    
+}
+.welcome-msg-sec{
+    background-color: #f2f2f2;
+    width: 100%;
+    text-align: justify;
+    min-height: 200px;
+}
+
+.welcome-msg-sec h4{
+    position: relative;
+    margin: 70px 0 0 100px;
+    font-size: 30px;
+}
+
+.welcome-msg-sec p{
+    position: relative;
+    margin: 20px 0 0 100px;
+    color:#495957;
+}
